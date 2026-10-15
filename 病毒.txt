@@ -8,4 +8,4 @@ com.example.app 5MB|恶意锁机
 com.xunxing.toolbox 10MB|恶意锁机
 com.example.testapp 5MB-15MB|伪装游龙，盗版
 mio.terminaldeity.pro 0.1KB-6MB|🌹
-com.example.chuimou
+com.example.chuimou 1MB-9MB|✨
