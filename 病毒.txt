@@ -1,1 +1,2 @@
 com.servers.ozzbzk 0.01KB-2MB|远控木马，锁机病毒
+com.rainbowcat 2MB-5MB|该软件风险低
