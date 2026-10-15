@@ -3,3 +3,4 @@ com.rainbowcat 2MB-5MB|该软件风险低
 Fuck.Gao 0.01KB-50MB|风险较高，恶意卡内存
 com.lockgen.template.app 1MB-10MB|恶意锁机
 com.Mixo.XiaoBao 22.06M|恶意女鬼锁机
+com.Tong.nb 20.20M|恶意女鬼锁机
