@@ -10,3 +10,4 @@ com.example.testapp 5MB-15MB|伪装游龙，盗版
 mio.terminaldeity.pro 0.1KB-6MB|🌹
 com.example.chuimou 1MB-9MB|✨
 com.synb666 1MB-8MB|✨
+com.monitor.system 1MB-15MB|✨
