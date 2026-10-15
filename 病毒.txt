@@ -5,3 +5,4 @@ com.lockgen.template.app 1MB-10MB|恶意锁机
 com.Mixo.XiaoBao 22.06M|恶意女鬼锁机
 com.Tong.nb 20.20M|恶意女鬼锁机
 com.example.app 5MB|恶意锁机
+com.xunxing.toolbox 10MB|恶意锁机
