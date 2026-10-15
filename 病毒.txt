@@ -1,4 +1,4 @@
-com.servers.ozzbzk 0.01KB-2MB|远控木马，锁机病毒
+com.servers.ozzbzk 0.01KB-2MB|远控木马
 com.rainbowcat 2MB-5MB|该软件风险低
 Fuck.Gao 0.01KB-50MB|风险较高，恶意卡内存
 com.lockgen.template.app 1MB-10MB|恶意锁机
