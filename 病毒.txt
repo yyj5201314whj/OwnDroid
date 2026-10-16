@@ -1,13 +1,13 @@
-com.servers.ozzbzk 0.01KB-2MB|远控木马
-com.rainbowcat 2MB-5MB|该软件风险低
-Fuck.Gao 0.01KB-50MB|风险较高，恶意卡内存
-com.lockgen.template.app 1MB-10MB|恶意锁机
-com.Mixo.XiaoBao 22.06M|恶意女鬼锁机
-com.Tong.nb 20.20M|恶意女鬼锁机
-com.example.app 5MB|恶意锁机
-com.xunxing.toolbox 10MB|恶意锁机
-com.example.testapp 5MB-15MB|伪装游龙，盗版
-mio.terminaldeity.pro 0.1KB-6MB|🌹
-com.example.chuimou 1MB-9MB|✨
-com.synb666 1MB-8MB|✨
-com.monitor.system 1MB-15MB|✨
+com.Tong.nb fffcfae866e795af8b16d3a7acdfab70939bea38065b3b1bbffec5a7ac6f67a3 | BN破解版_1.0
+com.cange.mnern.jajza a2ffebeb01860a274a12fa9fc5d9c3ace77a803fa0aba4d2d94dfcb2cb9c4691 | DY免费直装
+com.servers.ozzbzk b693855c1e36cca582284f7f4582a3296ec5df4b4b8edfbfb4a085747feade4d | System_Service_1.0
+com.lockgen.template.app 3b1fcf20a432632dce4722f90887382a5f460e1879789d97d193ae1466c23c61 | 崩坏之神_sku_1791283067808
+com.example.chuimou 03de416042b86aa2e62a915619a6a45e4dc2929527d6d72764896b4ed82e265c | 黑客开户破解
+io.shencha.gj 14a3514795378d68b8362958a36247af1fcac20c39d690ae346eeec1bfb9cb10 | 开户助手
+com.Tong.nb 33551061a205459ed8060c9dd978785904c3e12fe0c7539d3008b2fea0b75905 | 六花全火直装7.0__1.0
+Fuck.Gao 6127913a9da0ecf02524d9d8f910626713cee8ecb223564983deadb75b261300 | 染验最烈性病毒（机子报废）
+io.shencha.gj 02d74331631db875d20b7f7de6a5f20e3b91b7f2429b70723f20a1638c38b165 | 王者透视自瞄
+com.Mixo.XiaoBao a1cbdd07101c910028d8457f6b47f7cbf91d47e5dadd9221288b40c6b353fea6 | 小黄鸭科技（免root）_0.13
+com.synb666 386f21d4587bc199390efc9a2dd1bab6dac4c3206bc2cd52dbae7b9bc8c80fdc | 寻光公益容器_1.0.3
+mio.terminaldeity.pro 8dfc8f2464a32d98f8772d6943f4e52fbf66005e1f92ab650b765bf1d9c7bbf9 | 终末神明Pro
+com.example.chuimou 03de416042b86aa2e62a915619a6a45e4dc2929527d6d72764896b4ed82e265c | 自动扣字_1.0
