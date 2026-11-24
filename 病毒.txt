@@ -1,18 +1,15 @@
-com.Tong.nb fffcfae866e795af8b16d3a7acdfab70939bea38065b3b1bbffec5a7ac6f67a3 | BN破解版_1.0
-com.cange.mnern.jajza a2ffebeb01860a274a12fa9fc5d9c3ace77a803fa0aba4d2d94dfcb2cb9c4691 | DY免费直装
-com.servers.ozzbzk b693855c1e36cca582284f7f4582a3296ec5df4b4b8edfbfb4a085747feade4d | System_Service_1.0
-com.lockgen.template.app 3b1fcf20a432632dce4722f90887382a5f460e1879789d97d193ae1466c23c61 | 崩坏之神_sku_1791283067808
-com.example.chuimou 03de416042b86aa2e62a915619a6a45e4dc2929527d6d72764896b4ed82e265c | 黑客开户破解
-io.shencha.gj 14a3514795378d68b8362958a36247af1fcac20c39d690ae346eeec1bfb9cb10 | 开户助手
-com.Tong.nb 33551061a205459ed8060c9dd978785904c3e12fe0c7539d3008b2fea0b75905 | 六花全火直装7.0__1.0
-Fuck.Gao 6127913a9da0ecf02524d9d8f910626713cee8ecb223564983deadb75b261300 | 染验最烈性病毒（机子报废）
-io.shencha.gj 02d74331631db875d20b7f7de6a5f20e3b91b7f2429b70723f20a1638c38b165 | 王者透视自瞄
-com.Mixo.XiaoBao a1cbdd07101c910028d8457f6b47f7cbf91d47e5dadd9221288b40c6b353fea6 | 小黄鸭科技（免root）_0.13
-com.synb666 386f21d4587bc199390efc9a2dd1bab6dac4c3206bc2cd52dbae7b9bc8c80fdc | 寻光公益容器_1.0.3
-mio.terminaldeity.pro 8dfc8f2464a32d98f8772d6943f4e52fbf66005e1f92ab650b765bf1d9c7bbf9 | 终末神明Pro
-com.example.chuimou 03de416042b86aa2e62a915619a6a45e4dc2929527d6d72764896b4ed82e265c | 自动扣字_1.0
-Fuck.Gao c4c10d6d21d3b6a8cab72869ba6c64d9f87b05083a33a214be883c27644a238d | 让你手机报废
-mio.Anohana 7250e875660bace4c614b464225c46c3e162e1f24626dc63c41c8d789a7821bc |恶意修改文件
-com.last.proj 686ef14bae19aa3252ff2b60b45d9c937712886b811a124ba8fff1c28b586811 |韩国防空警报恶搞.exe
-example.neicun.baozha 0cbd0297b8a7a19f0641ee9192fa51da804458a2b7d6d28379c5def758833b76 |恶意卡内存卡桌面。
+com.Tong.nb
+com.cange.mnern.jajza
+com.servers.ozzbzk
+com.lockgen.template.app
+com.example.chuimou
+io.shencha.gj
+Fuck.Gao
+com.Mixo.XiaoBao
+com.synb666
+mio.terminaldeity.pro
+mio.Anohana
+com.last.proj
+example.neicun.baozha
 com.yqjc.child
+cqsgk.com
