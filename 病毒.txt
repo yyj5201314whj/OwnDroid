@@ -14,3 +14,4 @@ example.neicun.baozha
 com.yqjc.child
 cqsgk.com
 com.shfhgd.sdgfgxaj
+com.cange.wd
